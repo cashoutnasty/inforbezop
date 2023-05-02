@@ -1,0 +1,30 @@
+#2A2539 - черный
+#EFC8C8 - розовый
+#BDD3CC - около эмиральдовый
+#EAE9E5 - бежевый
+#DDA0DD - фиолетовый для ссылок
+#87CEFA - сине-голубой 
+
+
+	
+
+/*кнопка*/
+.five a {
+   border-radius: 10px;
+   color: #40382D;
+   box-shadow: inset 0 -5px 0 #40382D;
+}
+.five a:hover {
+   box-shadow: inset 0 -60px 0 #40382D, 2px 2px 3px rgba(0, 0, 0, 0.3);
+   color: #DECDA5;
+}
+
+
+
+.s3 {
+   color: #2A2539;
+   border: 2px solid transparent;
+}
+.s3:hover {
+   border: 2px solid #2A2539;
+}
